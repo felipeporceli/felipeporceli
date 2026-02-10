@@ -115,10 +115,3 @@ Meu nome é Felipe Porceli Volpe, tenho 21 anos e sou formado em Segurança da I
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
- <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=felipeporceli&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
-  />
-
