@@ -2,7 +2,7 @@
 
 **`Back End Developer & DevOps`**
 
-Meu nome é Felipe Porceli Volpe, tenho 21 anos e sou formado em Segurança da Informação pela Faculdade de Tecnologia de Ourinhos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na mesma. Foi durante minha primeira graduação que descobri minha paixão pelo universo DevOps e pelo desenvolvimento Back End, especialmente com foco em soluções na nuvem, utilizando AWS. Desde então, venho direcionando meus estudos e projetos nessa área, buscando sempre evoluir e me aprofundar cada vez mais.".
+Meu nome é Felipe Porceli Volpe, tenho 21 anos e sou formado em Segurança da Informação pela Faculdade de Tecnologia de Ourinhos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na mesma. Foi durante minha primeira graduação que descobri minha paixão pelo universo DevOps e pelo desenvolvimento Back End, especialmente com foco em soluções na nuvem, utilizando AWS. Desde então, venho direcionando meus estudos e projetos nessa área, buscando sempre evoluir e me aprofundar cada vez mais.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/felipeporceli/">
